@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **React**
  
- 🌱 I’m currently learning **Docker, React, AWS**
+ 🌱 I’m currently learning **React js, AWS**
 
-💬 let's have chat  about **Javascript,reatc,API**
+💬 let's have chat  about **Javascript, Ruby-on-Rails, CMS ,APIS**
 
 ⚡ Fun fact **Your brain is constantly eating itself.**
 
