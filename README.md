@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **React**
  
- 🌱 I’m currently learning **React js, AWS**
+ 🌱 I’m currently learning **Node js, AWS**
 
 💬 let's have chat  about **Javascript, Ruby-on-Rails, CMS ,APIS**
 
